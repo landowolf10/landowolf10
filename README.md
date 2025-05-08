@@ -18,7 +18,7 @@
 ---
 ### :man_technologist: About Me :
 Experienced Software Automation Engineer with a proven track record of 7 years in software testing, specializing in automation, solution development, and crafting software tailored for streamlined automation and data manipulation. Proficient in leveraging a diverse toolkit of tools and programming languages to develop clean and scalable code. Committed to fostering continuous improvement and facilitating informed decision-making within organizations through the implementation of cutting-edge automation solutions.
-- :telescope: Currently I', working as the Test Lead of an international team, I have spearheaded the development and implementation of robust automation frameworks and processes, along with providing strategic leadership and mentorship across the team.
+- :telescope: Currently I'm working as the Test Lead of an international team, I have spearheaded the development and implementation of robust automation frameworks and processes, along with providing strategic leadership and mentorship across the team.
 
 - :zap: In my free time, I work as an indie game developer, curently creating my first game that is going to be released next year!</a>
 
